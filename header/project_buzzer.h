@@ -3,7 +3,7 @@
 #ifndef BUZZER_H
 #define BUZZER_H
 
-#define BUZZER 22       // P0.19 connected to buzzer
+#define BUZZER 22       // P0.22 connected to buzzer
 
 /* Initialize buzzer GPIO pin. */
 void Buzzer_Init(void);
