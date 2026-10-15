@@ -4,9 +4,9 @@
 
 TB traindb[MAX] =
 {
-    {12745,"manugur sf express","manugur",1,9,30,9,40,0,0},
-    {12723,"telangana express","hazrat nizamuddin",2,10,30,10,40,0,0},
-    {12704,"falaknuma express","Vishakapatnam",3,11,00,11,10,0,0}
+    {12627,"Karnataka Express","New Delhi",1,9,30,9,35,0,0},
+    {12028,"Shatabdi Express","Chennai",2,10,30,10,35,0,0},
+    {12785,"Kacheguda Express","Hyderabad",3,11,00,11,05,0,0}
 };
 
 u8 ShowDelayMessage = 0;
